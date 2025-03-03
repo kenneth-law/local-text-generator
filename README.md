@@ -3,6 +3,9 @@
 ## Overview
 Local Text Generator is an open-source framework designed for hosting a local large language model (LLM) to assist with creative storytelling and text editing. This project enables users to generate and edit stories seamlessly using AI while maintaining complete privacy and control over their data. The web-based interface allows for customizable generation settings, undo/redo functionality, and light/dark mode support.
 
+<img width="1532" alt="image" src="https://github.com/user-attachments/assets/627edfaa-80bc-4482-a40c-c5f2b83d939b" />
+
+
 ## Unique Feature: Inline Text Editing & Smart Generation
 Unlike traditional AI-powered text generation tools, **Local Text Generator** allows users to edit any part of their text and generate inline completions dynamically. This feature enables:
 - **Creative Writing**: Continue stories naturally while preserving flow and style.
